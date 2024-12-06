@@ -5,3 +5,5 @@ This is whatsup code
 3.Last seen code
 4.Attachments (Image,Audio,video) code
 5.Hide the last seen
+6.Adding the audio call feature
+7.Adding the video callfeature
